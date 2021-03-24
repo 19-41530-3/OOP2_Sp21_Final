@@ -1,0 +1,13 @@
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.exe
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.deps.json
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.runtimeconfig.json
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.runtimeconfig.dev.json
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.dll
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\bin\Debug\netcoreapp3.1\Bankaccount.pdb
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.csprojAssemblyReference.cache
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.AssemblyInfoInputs.cache
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.AssemblyInfo.cs
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.csproj.CoreCompileInputs.cache
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.dll
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.pdb
+G:\5th semester\OOP2\code\Final\Bankaccount\Bankaccount\obj\Debug\netcoreapp3.1\Bankaccount.genruntimeconfig.cache

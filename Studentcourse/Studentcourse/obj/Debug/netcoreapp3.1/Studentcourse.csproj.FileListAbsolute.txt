@@ -1,0 +1,13 @@
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.AssemblyInfoInputs.cache
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.AssemblyInfo.cs
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.csproj.CoreCompileInputs.cache
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\bin\Debug\netcoreapp3.1\Studentcourse.exe
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\bin\Debug\netcoreapp3.1\Studentcourse.deps.json
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\bin\Debug\netcoreapp3.1\Studentcourse.runtimeconfig.json
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\bin\Debug\netcoreapp3.1\Studentcourse.runtimeconfig.dev.json
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\bin\Debug\netcoreapp3.1\Studentcourse.dll
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\bin\Debug\netcoreapp3.1\Studentcourse.pdb
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.dll
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.pdb
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.genruntimeconfig.cache
+G:\5th semester\OOP2\code\Final\Studentcourse\Studentcourse\obj\Debug\netcoreapp3.1\Studentcourse.csprojAssemblyReference.cache
