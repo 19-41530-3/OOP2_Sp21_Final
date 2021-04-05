@@ -1,0 +1,10 @@
+G:\5th semester\OOP2\Final code\Forms1\bin\Debug\Forms1.exe.config
+G:\5th semester\OOP2\Final code\Forms1\bin\Debug\Forms1.exe
+G:\5th semester\OOP2\Final code\Forms1\bin\Debug\Forms1.pdb
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.csprojAssemblyReference.cache
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.Properties.Resources.resources
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.csproj.GenerateResource.cache
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.csproj.CoreCompileInputs.cache
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.exe
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.pdb
+G:\5th semester\OOP2\Final code\Forms1\obj\Debug\Forms1.Form.resources
