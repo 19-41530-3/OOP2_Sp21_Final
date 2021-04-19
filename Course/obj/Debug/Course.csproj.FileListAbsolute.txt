@@ -1,0 +1,10 @@
+G:\5th semester\OOP2\Final code\Course\bin\Debug\Course.exe.config
+G:\5th semester\OOP2\Final code\Course\bin\Debug\Course.exe
+G:\5th semester\OOP2\Final code\Course\bin\Debug\Course.pdb
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.csprojAssemblyReference.cache
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.Form1.resources
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.Properties.Resources.resources
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.csproj.GenerateResource.cache
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.exe
+G:\5th semester\OOP2\Final code\Course\obj\Debug\Course.pdb
