@@ -1,0 +1,15 @@
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.csprojAssemblyReference.cache
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.admin.resources
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.Doctor.resources
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.Form1.resources
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.Properties.Resources.resources
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.Reception.resources
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.Reception2.resources
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.csproj.GenerateResource.cache
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.csproj.CoreCompileInputs.cache
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\bin\Debug\PNP.exe.config
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\bin\Debug\PNP.exe
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\bin\Debug\PNP.pdb
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.exe
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.pdb
+C:\Users\Sadia Afrin\Desktop\PNP3\PNP_Project-master\PNP\obj\Debug\PNP.Doctor1.resources
